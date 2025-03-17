@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there,I'm Lalithya 👋
+Aspiring Data Analyst | Former QA & Business Analyst**  
+🎓 Master's Student in Data Analytics | Passionate about Data Visualization & Machine Learning
 
 <!--
-**Datavizz31/Datavizz31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**## 🔍 About Me
+- 📊 3+ years of experience in QA & Business Analysis
+- 🛠️ Skilled in **Python, SQL, Tableau, Power BI, ETL Pipelines**
+- 📖 Currently learning **Machine Learning & Data Engineering**
+- 🎯 Open to **Data Analytics,Data Engineering & Business Analyst roles** 
+- 📫 Connect with me: https://www.linkedin.com/in/lalithyaalapati3108/
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I can remember random facts from books and conversations but will forget why I walked into a room.
+📌 *Currently building my portfolio & sharing my learning journey!* 🚀
 -->
