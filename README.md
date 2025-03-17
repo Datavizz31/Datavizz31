@@ -1,5 +1,5 @@
 ## Hi there,I'm Lalithya 👋
-Aspiring Data Analyst | Former QA & Business Analyst**  
+Aspiring Data Analyst | Former QA & Business Analyst  
 🎓 Master's Student in Data Analytics | Passionate about Data Visualization & Machine Learning
 
 <!--
