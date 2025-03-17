@@ -2,7 +2,6 @@
 Aspiring Data Analyst | Former QA & Business Analyst  
 🎓 Master's Student in Data Analytics | Passionate about Data Visualization & Machine Learning
 
-<!--
 **## 🔍 About Me
 - 📊 3+ years of experience in QA & Business Analysis
 - 🛠️ Skilled in **Python, SQL, Tableau, Power BI, ETL Pipelines**
@@ -12,4 +11,4 @@ Aspiring Data Analyst | Former QA & Business Analyst
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can remember random facts from books and conversations but will forget why I walked into a room.
 📌 *Currently building my portfolio & sharing my learning journey!* 🚀
--->
+
