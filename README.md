@@ -10,5 +10,6 @@ Aspiring Data Analyst | Former QA & Business Analyst
 - 📫 Connect with me: https://www.linkedin.com/in/lalithyaalapati3108/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can remember random facts from books and conversations but will forget why I walked into a room.
+
 📌 *Currently building my portfolio & sharing my learning journey!* 🚀
 
