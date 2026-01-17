@@ -1,11 +1,10 @@
 ## Hi there,I'm Lalithya 👋
-Aspiring Data Analyst | Former QA & Business Analyst  
-🎓 Master's Student in Data Analytics | Passionate about Data Visualization & Machine Learning
+Business Analyst, Data Analyst & Data Scientist 
+🎓 Master's in Data Analytics | Passion about the math behind the llm
 
 **## 🔍 About Me
 - 📊 4+ years of experience in QA & Business Analysis
 - 🛠️ Skilled in **Python, SQL, Tableau, Power BI, ETL Pipelines**
-- 📖 Currently learning **Machine Learning & Data Engineering**
 - 🎯 Open to **Data Analytics,Gen AI Engineer, Machine Learning & Business Analyst roles** 
 - 📫 Connect with me: https://www.linkedin.com/in/lalithyaalapati3108/
 - 😄 Pronouns: She/Her
